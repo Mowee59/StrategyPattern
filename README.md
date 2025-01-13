@@ -1,5 +1,8 @@
 # Projet de démonstration du Strategy Pattern
 
+![diagram-discount](https://github.com/user-attachments/assets/2a2cac5f-7ee2-4bd8-9c18-35bfbd3d56a9)
+
+
 Ce projet sert de support à l'article suivant : 
 
 ## Structure du projet
