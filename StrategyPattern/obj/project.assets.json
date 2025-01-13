@@ -17,8 +17,8 @@
   "libraries": {
     "DiscountLibrary/1.0.0": {
       "type": "project",
-      "path": "../StrategyPattern.Core/DiscountLibrary.csproj",
-      "msbuildProject": "../StrategyPattern.Core/DiscountLibrary.csproj"
+      "path": "../DiscountLibrary/DiscountLibrary.csproj",
+      "msbuildProject": "../DiscountLibrary/DiscountLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\StrategyPattern\\StrategyPattern\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\Mowee59\\StrategyPattern\\StrategyPattern\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\StrategyPattern\\StrategyPattern\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Home\\source\\repos\\Mowee59\\StrategyPattern\\StrategyPattern\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\StrategyPattern\\StrategyPattern\\obj\\",
+      "outputPath": "C:\\Users\\Home\\source\\repos\\Mowee59\\StrategyPattern\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Home\\source\\repos\\StrategyPattern\\StrategyPattern.Core\\DiscountLibrary.csproj": {
-              "projectPath": "C:\\Users\\Home\\source\\repos\\StrategyPattern\\StrategyPattern.Core\\DiscountLibrary.csproj"
+            "C:\\Users\\Home\\source\\repos\\Mowee59\\StrategyPattern\\DiscountLibrary\\DiscountLibrary.csproj": {
+              "projectPath": "C:\\Users\\Home\\source\\repos\\Mowee59\\StrategyPattern\\DiscountLibrary\\DiscountLibrary.csproj"
             }
           }
         }

@@ -3,7 +3,7 @@ using DiscountLibrary.Interfaces;
 
 namespace DiscountLibrary.DiscountStrategies
 {
-    internal class ThresholdDiscountStrategy : IDiscountStrategy
+    public class ThresholdDiscountStrategy : IDiscountStrategy
     {
         private readonly decimal _threshold;
         private readonly decimal _flatDiscount;
