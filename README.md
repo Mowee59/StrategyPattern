@@ -30,5 +30,4 @@ L'application vous demandera d'entrer un prix total, puis appliquera différente
 ## Configuration requise
 
 - .NET 9.0 ou supérieur
-- Visual Studio 2022 ou supérieur
 
