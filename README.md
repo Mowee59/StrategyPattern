@@ -3,7 +3,7 @@
 ![diagram-discount](https://github.com/user-attachments/assets/2a2cac5f-7ee2-4bd8-9c18-35bfbd3d56a9)
 
 
-Ce projet sert de support à l'article suivant :  [Le design pattern strategy](blog.aniss.dev/articles/le-design-pattern-strategy)
+Ce projet sert de support à l'article suivant :  [Le design pattern strategy](https://blog.aniss.dev/articles/le-design-pattern-strategy)
 
 ## Structure du projet
 
